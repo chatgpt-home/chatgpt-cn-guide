@@ -1,13 +1,13 @@
 # ChatGPT 中文版：手把手教会你国内如何使用ChatGPT！【详细版】
 
-> **更新时间： 2025/03/08**   
+> **更新时间： 2025/07/27**   
 
 **全面掌握 ChatGPT 中文版，无需翻墙即可体验 GPT-4 与多功能AI服务！**    
 
 本指南旨在为用户提供详尽的 **ChatGPT 中文版使用指南**，并整理国内稳定的 **ChatGPT镜像网站** 与 **官方使用教程**，帮助您快速上手和使用ChatGPT，不论是个人使用还是专业需求。
 
-ChatGPT 中文版入口：[https://chat.yixiaai.com/](https://chat.yixiaai.com/)  
-ChatGPT 镜像网站：[https://lanjing.ai](https://lanjing.ai)
+ChatGPT 中文版入口：[https://xsimplechat.com/](https://xsimplechat.com/)  
+ChatGPT 镜像网站：[https://chat.lanjingai.org](https://chat.lanjingai.org)
 
 ---
 
@@ -39,8 +39,8 @@ ChatGPT 镜像网站：[https://lanjing.ai](https://lanjing.ai)
 
 | 站点名称               | 地址                                                                                                               | 支持版本                        | 主要功能                       |
 |------------------------|--------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------------------------|
-| **一下 AI**            | [https://chat.yixiaai.com](https://chat.yixiaai.com)                                                               | GPT-4.0、GPT4.5、GPT o1、Grok、AI绘画 | 支持多种AI模型和绘画工具       |
-| **Lify VIP**           | [https://chat.lify.vip](https://chat.lify.vip)                                                                     | GPT-4.0、GPT4.0 turbo、GPT o1、Grok、AI PPT、插件 | 提供全方位AI支持                |
+| **一下 AI**            | [https://xsimplechat.com](https://xsimplechat.com)                                                               | GPT-4.0、GPT4.5、GPT o1、Grok、AI绘画 | 支持多种AI模型和绘画工具       |
+| **Lify VIP**           | [https://chat.lanjingai.org](https://chat.lanjingai.org)                                                                     | GPT-4.0、GPT4.0 turbo、GPT o1、Grok、AI PPT、插件 | 提供全方位AI支持                |
 | **ChatGPT 中文版**     | [https://chatgpt-chinese.com](https://chatgpt-chinese.com)                                                         | GPT全系列模型和DeepSeek R1满血版 | 全面支持多种AI模型             |
 | **Chatknow 电脑客户端**    | [下载链接](https://chatknow.lify.vip/software/AI%E6%99%BA%E6%85%A7%E5%B2%9B_1.0.0_x64_zh-CN.msi)                   | ChatGPT全系列模型、Claude、Grok、DeepSeek等                               | 提供桌面客户端，便捷使用       |
 | **Edge 浏览器插件**    | [安装链接](https://microsoftedge.microsoft.com/addons/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88%E4%B8%AD%E6%96%87%E7%95%8C%E9%9D%A2%E3%80%81%E5%AF%B9%E8%AF%9D%E3%80%81%E5%86%99%E4%BD%9C%E3%80%81%E7%BB%98%E7%94%BB/lmlenkgcieicbnpobkhmpcgmamahahil) | ChatGPT全系列模型                               | 提供便捷的浏览器插件           |
@@ -65,7 +65,7 @@ ChatGPT 镜像网站：[https://lanjing.ai](https://lanjing.ai)
 ## 如何快速使用 ChatGPT 中文版
 
 ### **通过镜像网站快速体验**
-1. **选择镜像站点**：如 [lify.vip](https://chat.lify.vip)。
+1. **选择镜像站点**：如 [lify.vip](https://chat.lanjingai.org)。
 2. **注册或直接使用**：
    - 邮箱注册：输入邮箱和密码完成注册。
    - 免注册：开始聊天，输入问题即可。
